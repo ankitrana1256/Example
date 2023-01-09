@@ -11,5 +11,6 @@ func factorial(x int) int {
 }
 
 func main() {
+	fmt.Println("The factorial of 5 is ")
 	fmt.Println(factorial(5))
 }
